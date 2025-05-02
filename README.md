@@ -1,4 +1,4 @@
-# Music Player App for OPM Songs
+##Bop-Berry App for OPM Songs
 
 > This is a simple and responsive music player application for OPM songs using HTML, CSS and JavaScript.
 > 
